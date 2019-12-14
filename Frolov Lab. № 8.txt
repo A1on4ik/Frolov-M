@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 Hello World
 ÑÀÏÐ
+=======
+>>>>>>> parent of dd42a9b... Hello World 2
